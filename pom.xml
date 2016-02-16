@@ -24,7 +24,7 @@
         <targetsIoUrl>http://targetsio:3000</targetsIoUrl>
 
         <!-- Default Simulation class  -->
-        <applicationSimulation>com.gatling.demo.gatling.setup.Demo</applicationSimulation>
+        <applicationSimulation>com.gatling.demo.gatling.setup.Google</applicationSimulation>
 
         <!-- Default test environment  -->
         <!--<activeEnvironment>local</activeEnvironment>-->
