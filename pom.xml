@@ -46,7 +46,7 @@
         <activeProfileId>debug</activeProfileId>
 
         <!-- Settings for the LTDashboard -->
-        <productName>GATLING</productName>
+        <productName>GOOGLE</productName>
         <productRelease>1.0</productRelease>
         
     </properties>
