@@ -24,7 +24,7 @@
         <targetsIoUrl>http://targetsio:3000</targetsIoUrl>
 
         <!-- Default Simulation class  -->
-        <applicationSimulation>com.gatling.demo.gatling.setup.Google</applicationSimulation>
+        <applicationSimulation>com.gatling.demo.gatling.setup.Portal</applicationSimulation>
 
         <!-- Default test environment  -->
         <!--<activeEnvironment>local</activeEnvironment>-->
@@ -46,7 +46,7 @@
         <activeProfileId>debug</activeProfileId>
 
         <!-- Settings for the LTDashboard -->
-        <productName>GOOGLE</productName>
+        <productName>PORTAL</productName>
         <productRelease>1.0</productRelease>
         
     </properties>
@@ -85,7 +85,7 @@
             <version>4.3.6</version>
         </dependency>
         <dependency>
-            <groupId>com.google.code.gson</groupId>
+            <groupId>com.Portal.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.3</version>
         </dependency>
